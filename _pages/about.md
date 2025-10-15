@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Flipping houses: Information, financing and housing price"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+One driving force of soaring house prices may be the house flipping activities of short-term investors. Short-term investors in housing market profit from purchasing houses at relatively lower prices. To reveal its mechanisms from the prospective of buyers’ behaviors, we compare the search behaviors between short term investors and first-time buyers as they both prefer small houses with similar characteristics. And we construct a buyer search model to theoretically show that the short-term investors profit from his information advantage and lower-leverage advantage compared with the first-time buyer. Then we estimate short-term investors and first-time buyers’ primitive parameters and conduct counterfactual analyses by utilizing theoretical structures and data distinguishing first-time buyers and short-term investors with their payment information. Base on the housing transaction records in Guangzhou city from 2013 to 2016, We find that short-term investors purchase houses at 5.77% lower prices than first-time buyers due to the short-term investors’ 83% lower loan-to-value ratio. We illustrate that the expected house price increases with the loan-to-value ratio, and this effect is increasing with the buyer’s search cost. The findings demonstrate the importance of improving the information infrastructure of the housing market and increasing mortgage convenience in restraining flipping.
 
 A data-driven personal website
 ======
